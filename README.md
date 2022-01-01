@@ -1,3 +1,3 @@
 # weatherCast
 
-hosting: https://weathercast-bd71a.web.app/
+Deployment: https://weathercast-bd71a.web.app/
