@@ -8,5 +8,5 @@ screenshot:
 
 git clone https://github.com/subhamay2002/weatherCast \
 run command \
-   ### npm install 
-   ### npm start
+   ### `npm install` 
+   ### `npm start`
